@@ -1,3 +1,5 @@
+# 2024 - Note that this work is derived from the https://github.com/paulrouget/dzslides project which states that any change is allowed as long as the original (dzslides or license) name is not used.
+
 # wildfly-decks
 WildFly presentation materials.
 
